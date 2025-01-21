@@ -58,7 +58,8 @@ namespace ClinicManager.Controllers
             try
             {
                 await _pacientesService.AddPacienteAsync(paciente);
-                return CreatedAtAction(nameof(GetById), new { id = paciente.IdPaciente }, paciente);
+                    CreatedAtAction(nameof(GetById), new { id = paciente.IdPaciente }, paciente);
+                return Ok(paciente);
             }
             catch (ValidationException ex)
             {

@@ -2,5 +2,5 @@ projectKey=ClinicManagerTest
 serverUrl=http://localhost:9000
 serverVersion=25.1.0.102122
 dashboardUrl=http://localhost:9000/dashboard?id=ClinicManagerTest
-ceTaskId=fcbd68b9-d47a-449d-9c52-11d56a1bc746
-ceTaskUrl=http://localhost:9000/api/ce/task?id=fcbd68b9-d47a-449d-9c52-11d56a1bc746
+ceTaskId=9788e838-62c7-45a2-9738-3d3451fd3402
+ceTaskUrl=http://localhost:9000/api/ce/task?id=9788e838-62c7-45a2-9738-3d3451fd3402

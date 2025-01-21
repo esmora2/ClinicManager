@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Visual\\Pruebas\\ClinicManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFE7F652-EFDF-44AD-BAE7-F6BD1A6301AE}|ClinicManager\\ClinicManager.csproj|c:\\visual\\pruebas\\clinicmanager\\clinicmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE7F652-EFDF-44AD-BAE7-F6BD1A6301AE}|ClinicManager\\ClinicManager.csproj|solutionrelative:clinicmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FFE7F652-EFDF-44AD-BAE7-F6BD1A6301AE}|ClinicManager\\ClinicManager.csproj|c:\\visual\\pruebas\\clinicmanager\\clinicmanager\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFE7F652-EFDF-44AD-BAE7-F6BD1A6301AE}|ClinicManager\\ClinicManager.csproj|solutionrelative:clinicmanager\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE7F652-EFDF-44AD-BAE7-F6BD1A6301AE}|ClinicManager\\ClinicManager.csproj|c:\\visual\\pruebas\\clinicmanager\\clinicmanager\\services\\pacientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE7F652-EFDF-44AD-BAE7-F6BD1A6301AE}|ClinicManager\\ClinicManager.csproj|solutionrelative:clinicmanager\\services\\pacientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE7F652-EFDF-44AD-BAE7-F6BD1A6301AE}|ClinicManager\\ClinicManager.csproj|c:\\visual\\pruebas\\clinicmanager\\clinicmanager\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE7F652-EFDF-44AD-BAE7-F6BD1A6301AE}|ClinicManager\\ClinicManager.csproj|solutionrelative:clinicmanager\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8092240B-D6E2-4D9A-9B60-09A23B2901F7}|ClinicManagerTest\\ClinicManagerTest.csproj|c:\\visual\\pruebas\\clinicmanager\\clinicmanagertest\\pacientesservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8092240B-D6E2-4D9A-9B60-09A23B2901F7}|ClinicManagerTest\\ClinicManagerTest.csproj|solutionrelative:clinicmanagertest\\pacientesservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Visual\\Pruebas\\ClinicManager\\ClinicManager\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "ClinicManager\\AppDBContext.cs",
-              "ToolTip": "C:\\Visual\\Pruebas\\ClinicManager\\ClinicManager\\AppDBContext.cs",
-              "RelativeToolTip": "ClinicManager\\AppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PacientesServiceTests.cs",
+              "DocumentMoniker": "C:\\Visual\\Pruebas\\ClinicManager\\ClinicManagerTest\\PacientesServiceTests.cs",
+              "RelativeDocumentMoniker": "ClinicManagerTest\\PacientesServiceTests.cs",
+              "ToolTip": "C:\\Visual\\Pruebas\\ClinicManager\\ClinicManagerTest\\PacientesServiceTests.cs",
+              "RelativeToolTip": "ClinicManagerTest\\PacientesServiceTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:24:39.661Z",
+              "WhenOpened": "2025-01-21T18:14:02.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Visual\\Pruebas\\ClinicManager\\ClinicManager\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "ClinicManager\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Visual\\Pruebas\\ClinicManager\\ClinicManager\\Models\\Paciente.cs",
+              "RelativeToolTip": "ClinicManager\\Models\\Paciente.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:02:51.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PacientesService.cs",
+              "DocumentMoniker": "C:\\Visual\\Pruebas\\ClinicManager\\ClinicManager\\Services\\PacientesService.cs",
+              "RelativeDocumentMoniker": "ClinicManager\\Services\\PacientesService.cs",
+              "ToolTip": "C:\\Visual\\Pruebas\\ClinicManager\\ClinicManager\\Services\\PacientesService.cs",
+              "RelativeToolTip": "ClinicManager\\Services\\PacientesService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:55:07.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PacientesController.cs",
               "DocumentMoniker": "C:\\Visual\\Pruebas\\ClinicManager\\ClinicManager\\Controllers\\PacientesController.cs",
               "RelativeDocumentMoniker": "ClinicManager\\Controllers\\PacientesController.cs",
               "ToolTip": "C:\\Visual\\Pruebas\\ClinicManager\\ClinicManager\\Controllers\\PacientesController.cs",
               "RelativeToolTip": "ClinicManager\\Controllers\\PacientesController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwDwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:10:30.632Z",
+              "WhenOpened": "2025-01-21T17:43:51.801Z",
               "EditorCaption": ""
             }
           ]

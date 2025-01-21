@@ -4,6 +4,8 @@ qC:\Visual\Pruebas\ClinicManager\ClinicManagerTest\obj\Debug\net8.0\.NETCoreApp,
 fC:\Visual\Pruebas\ClinicManager\ClinicManagerTest\obj\Debug\net8.0\ClinicManagerTest.GlobalUsings.g.csutf-8|
 qC:\Users\USER\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.csutf-8S
 JC:\Visual\Pruebas\ClinicManager\ClinicManagerTest\PacientesServiceTests.csutf-8V
-MC:\Visual\Pruebas\ClinicManager\ClinicManagerTest\PacientesControllerTests.csutf-8R
-IC:\Visual\Pruebas\ClinicManager\ClinicManagerTest\DoctoresServiceTests.csutf-8U
-LC:\Visual\Pruebas\ClinicManager\ClinicManagerTest\DoctoresControllerTests.csutf-8
+MC:\Visual\Pruebas\ClinicManager\ClinicManagerTest\PacientesControllerTests.csutf-8O
+FC:\Visual\Pruebas\ClinicManager\ClinicManagerTest\CitasServiceTests.csutf-8U
+LC:\Visual\Pruebas\ClinicManager\ClinicManagerTest\DoctoresControllerTests.csutf-8R
+IC:\Visual\Pruebas\ClinicManager\ClinicManagerTest\DoctoresServiceTests.csutf-8R
+IC:\Visual\Pruebas\ClinicManager\ClinicManagerTest\CitasControllerTests.csutf-8

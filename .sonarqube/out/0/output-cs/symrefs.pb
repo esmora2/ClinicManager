@@ -74,25 +74,20 @@ IC:\Visual\Pruebas\ClinicManager\ClinicManager\Services\DoctoresService.cs
 00 +(
 003 922 22( .55' -
 :: 2 '; Q
-::: ?<< ü
-8C:\Visual\Pruebas\ClinicManager\ClinicManager\Program.cs^
- 		          
- 
-, 3 J
-      $$ '' ** -- 	
+::: ?<< 
 EC:\Visual\Pruebas\ClinicManager\ClinicManager\Models\Procedimiento.cs
 
- 
+ 
 
- #
+ "
 
- !
+ !
 
- 
+ 
 
- 
+ 
 
- 
+ 
 FC:\Visual\Pruebas\ClinicManager\ClinicManager\Services\CitasService.cs
 
  Œ
@@ -124,56 +119,60 @@ FC:\Visual\Pruebas\ClinicManager\ClinicManager\Services\CitasService.cs
 @@B C@@G H
 
 HH )
-HH/ 3JJ$ (–
+HH/ 3JJ$ (’
+8C:\Visual\Pruebas\ClinicManager\ClinicManager\Program.cs^
+           
+ 
+  
+, 3 J
+  !! "" && )) ,, // 	–
 @C:\Visual\Pruebas\ClinicManager\ClinicManager\Models\Paciente.cs
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+"" 
 
-!!! &ˆ
+$$! &ˆ
 >C:\Visual\Pruebas\ClinicManager\ClinicManager\Models\Doctor.cs
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
- "
+ "
 
-! &ª
+! &ª
 <C:\Visual\Pruebas\ClinicManager\ClinicManager\Models\Cita.cs
 
- 
+ 
 
-
-
- 
+ 
 
- 
+ 
 
- 
+ 
 
- !
+ !
 
- 
+ 
 
- 
+ 
 
- 
+   
 
-* 8É
+""* 8É
 [C:\Visual\Pruebas\ClinicManager\ClinicManager\Migrations\20250120223624_InitialMigration.cs
 
 		 )2
@@ -200,7 +199,16 @@ FC:\Visual\Pruebas\ClinicManager\ClinicManager\Services\CitasService.cs
 ]]  !]]% &
 
 tt  $2
-tt6 Fvv yy ||  Ö
+tt6 Fvv yy ||  ¬
+ZC:\Visual\Pruebas\ClinicManager\ClinicManager\Migrations\20250121044029_UpdateMigration.cs
+
+ (
+
+  "
+4 D 
+
+  $
+6 F Ö
 LC:\Visual\Pruebas\ClinicManager\ClinicManager\Exceptions\CustomExceptions.cs
 
  "
@@ -217,55 +225,7 @@ LC:\Visual\Pruebas\ClinicManager\ClinicManager\Exceptions\CustomExceptions.cs
 * 1: A
 
  &
-, 3< C„
-FC:\Visual\Pruebas\ClinicManager\ClinicManager\DTOs\ProcedimientoDto.cs
-
- !
-
- "
-
- !
-
- 
-
- }
-?C:\Visual\Pruebas\ClinicManager\ClinicManager\DTOs\DoctorDto.cs
-
- 
-
- 
-
- 
-
- 
-
- "‡
-=C:\Visual\Pruebas\ClinicManager\ClinicManager\DTOs\CitaDto.cs
-
- 
-
- 
-
- 
-
- $
-
- "
-
-		 ‹
-AC:\Visual\Pruebas\ClinicManager\ClinicManager\DTOs\PacienteDto.cs
-
- 
-
- 
-
- 
-
- 
-
- 
-
-		 §
+, 3< C§
 UC:\Visual\Pruebas\ClinicManager\ClinicManager\Controllers\ProcedimientosController.cs
 
 
@@ -291,14 +251,15 @@ UC:\Visual\Pruebas\ClinicManager\ClinicManager\Controllers\ProcedimientosControl
 
 VV) /
 VV4 6ZZ[ ]
-ZZ ![[ !^^F Sà
+ZZ ![[ !^^F Sâ
 PC:\Visual\Pruebas\ClinicManager\ClinicManager\Controllers\PacientesController.cs
 
 
 
  $Z
-* ; & 7''% 6<< 'QQ- >UU 'kk% 6oo '<
- 77 Q337 QEE7 Qbb7 Q||7 Q
+* ; & 7''% 6<< 'WW- >[[ 'qq% 6uu '4
+ 77 Q337 Qhh7 Q
+‚‚7 Q
 4 D  0
 
 ) /
@@ -308,44 +269,17 @@ PC:\Visual\Pruebas\ClinicManager\ClinicManager\Controllers\PacientesController.c
 ##5 7''L N
 '' (( ++ "
 
-88) /(
-889 A<<9 A==C K==Z b
+88) /2
+889 A<<9 A==@ H==W _>> "
 
-JJ) /
-JJ4 6LL QQT V
-JJA ILL UU< D(
-QQ $RR $UUF VVV *
+PP) /
+PP4 6RR WWT V
+PPA IRR [[< D(
+WW $XX $[[F V\\ *
 
-gg) /
-gg4 6kkL N
-kk ll oo< DÕ
-OC:\Visual\Pruebas\ClinicManager\ClinicManager\Controllers\DoctoresController.cs
-
-
-
- #Z
-) 9 ! 1""# 333 &HH+ ;LL &^^# 3bb &2
- 0**7 J<<7 JUU7 Jkk7 J
-2 A .
-
-) /
-  
-
-) 0
-5 7""G I
-"" ## &&  
-
-//) /(
-//7 =336 <44C I44V \
-
-AA) /
-AA4 6CC HHO Q
-AA? ECC LL9 ?(
-HH "II "LLA OMM (
-
-ZZ) /
-ZZ4 6^^G I
-^^ __ bb9 ?ê
+mm) /
+mm4 6qqL N
+qq rr uu< Dê
 LC:\Visual\Pruebas\ClinicManager\ClinicManager\Controllers\CitasController.cs
 
 
@@ -370,7 +304,34 @@ LC:\Visual\Pruebas\ClinicManager\ClinicManager\Controllers\CitasController.cs
 
 TT) /
 TT4 6VV< >
-VV WW \\4 8Á
+VV WW \\4 8Ë
+OC:\Visual\Pruebas\ClinicManager\ClinicManager\Controllers\DoctoresController.cs
+
+
+
+ #Z
+) 9 ! 1""# 333 &NN+ ;RR &dd# 3hh &(
+ 0**7 J[[7 Jqq7 J
+2 A .
+
+) /
+  
+
+) 0
+5 7""G I
+"" ## &&  
+
+//) /(
+//7 =336 <44C I44V \
+
+GG) /
+GG4 6II NNO Q
+GG? EII RR9 ?(
+NN "OO "RRA OSS (
+
+``) /
+``4 6ddG I
+dd ee hh9 ?Á
 =C:\Visual\Pruebas\ClinicManager\ClinicManager\AppDBContext.cs
  - 9
 ; BK R

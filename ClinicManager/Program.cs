@@ -8,7 +8,7 @@ builder.Services.AddControllers()
         options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve);
 // **Configuración de servicios**
 // Agregar controladores
-//builder.Services.AddControllers();
+
 
 // Configurar Swagger para la documentación de la API
 builder.Services.AddEndpointsApiExplorer();

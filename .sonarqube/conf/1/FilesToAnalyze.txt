@@ -1,4 +1,6 @@
-﻿C:\Visual\Pruebas\ClinicManager\ClinicManagerTest\DoctoresControllerTests.cs
+﻿C:\Visual\Pruebas\ClinicManager\ClinicManagerTest\CitasControllerTests.cs
+C:\Visual\Pruebas\ClinicManager\ClinicManagerTest\CitasServiceTests.cs
+C:\Visual\Pruebas\ClinicManager\ClinicManagerTest\DoctoresControllerTests.cs
 C:\Visual\Pruebas\ClinicManager\ClinicManagerTest\DoctoresServiceTests.cs
 C:\Visual\Pruebas\ClinicManager\ClinicManagerTest\PacientesControllerTests.cs
 C:\Visual\Pruebas\ClinicManager\ClinicManagerTest\PacientesServiceTests.cs

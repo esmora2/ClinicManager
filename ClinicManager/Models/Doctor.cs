@@ -9,6 +9,7 @@ namespace ClinicManager.Models
         [Key]
         [Required]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [JsonRequired] // Asegura que el cliente envíe este valor en la solicitud
         public int IdDoctor { get; set; } // Se cambia a nullable para evitar problemas con valores predeterminados
 
         [Required]

@@ -46,7 +46,9 @@ namespace ClinicManagerTest.Services
             Assert.Equal("Teléfono inválido. Debe contener solo números y no exceder 10 dígitos.", exception.Message);
         }
 
+
         [Fact]
+
         public async Task DeletePacienteAsync_WithCitas_ShouldThrowException()
         {
             // Arrange

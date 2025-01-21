@@ -3,13 +3,11 @@ C:\Visual\Pruebas\ClinicManager\ClinicManager\Controllers\CitasController.cs
 C:\Visual\Pruebas\ClinicManager\ClinicManager\Controllers\DoctoresController.cs
 C:\Visual\Pruebas\ClinicManager\ClinicManager\Controllers\PacientesController.cs
 C:\Visual\Pruebas\ClinicManager\ClinicManager\Controllers\ProcedimientosController.cs
-C:\Visual\Pruebas\ClinicManager\ClinicManager\DTOs\CitaDto.cs
-C:\Visual\Pruebas\ClinicManager\ClinicManager\DTOs\DoctorDto.cs
-C:\Visual\Pruebas\ClinicManager\ClinicManager\DTOs\PacienteDto.cs
-C:\Visual\Pruebas\ClinicManager\ClinicManager\DTOs\ProcedimientoDto.cs
 C:\Visual\Pruebas\ClinicManager\ClinicManager\Exceptions\CustomExceptions.cs
 C:\Visual\Pruebas\ClinicManager\ClinicManager\Migrations\20250120223624_InitialMigration.cs
 C:\Visual\Pruebas\ClinicManager\ClinicManager\Migrations\20250120223624_InitialMigration.Designer.cs
+C:\Visual\Pruebas\ClinicManager\ClinicManager\Migrations\20250121044029_UpdateMigration.cs
+C:\Visual\Pruebas\ClinicManager\ClinicManager\Migrations\20250121044029_UpdateMigration.Designer.cs
 C:\Visual\Pruebas\ClinicManager\ClinicManager\Migrations\AppDBContextModelSnapshot.cs
 C:\Visual\Pruebas\ClinicManager\ClinicManager\Models\Cita.cs
 C:\Visual\Pruebas\ClinicManager\ClinicManager\Models\Doctor.cs
