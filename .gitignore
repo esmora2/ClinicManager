@@ -1,0 +1,45 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de usuario
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Archivos de configuración de Visual Studio
+.vscode/
+*.csproj.user
+*.dbmdl
+*.dbproj.user
+
+# Archivos de configuración de Rider
+.idea/
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Archivos de publicación
+publish/
+
+# Otros
+*.pdb
+*.mdb
+*.exe
+*.dll
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+*.msixupload

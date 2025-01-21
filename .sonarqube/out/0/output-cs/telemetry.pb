@@ -1,0 +1,1 @@
+XRBC:\Visual\Pruebas\ClinicManager\ClinicManager\ClinicManager.csproj¢net8.0òCSharp12

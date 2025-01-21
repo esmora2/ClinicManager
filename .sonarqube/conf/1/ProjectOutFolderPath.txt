@@ -1,0 +1,1 @@
+C:\Visual\Pruebas\ClinicManager\.sonarqube\out\1

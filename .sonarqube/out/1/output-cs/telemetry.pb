@@ -1,0 +1,1 @@
+`RJC:\Visual\Pruebas\ClinicManager\ClinicManagerTest\ClinicManagerTest.csproj¢net8.0òCSharp12
